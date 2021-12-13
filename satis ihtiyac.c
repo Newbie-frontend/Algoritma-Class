@@ -38,8 +38,6 @@ int main() {
     {
     	printf("%d\t",number[i][1]);
     }
-    
-
 
     return 0;
 }
