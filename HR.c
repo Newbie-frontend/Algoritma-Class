@@ -1,6 +1,7 @@
-#include <stdio.h>
-#include <math.h>
-#include <>
+//iki boyutlu dizi matrisi
+// #include <stdio.h>
+// #include <math.h>
+// #include <conio.h>
 
 using namespace std;
 int main(){
